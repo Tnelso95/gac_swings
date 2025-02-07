@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load CSV data
-data = pd.read_csv('Blast1.csv')
+data = pd.read_csv('Blast.csv')
 mlb_data = pd.read_csv('MLB_Blast.csv')
 
 # Function to calculate Swing Score
